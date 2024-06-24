@@ -9,7 +9,7 @@ QUIZ 1. Downloading and installing Visual Studio Code on windows 11
             C:\Users\PC\AppData\Local\Programs\Microsoft VS Code\bin\code
     (e) Select addition task,  creating a desktop icon, add to Path.
 # image on downloading and installing vs code:
-![downloading vs code](<images\vs_code_download.png>)
+![downloading vs code](<images/vs_code_download.png>)
 
 
 
@@ -17,7 +17,7 @@ QUIZ 2. First-time Setup:
     (a) Adjust appearence and themes - Go to File > Preferences > Color Theme to choose a theme.
     (b) Edito Settings: Adjust settings such as font size and line height via File > Preferences > Settings or Ctrl+,
 # images below:
-![settings](<images\settings.png>)
+![settings](<images/settings.png>)
 
 
 
@@ -33,7 +33,7 @@ QUIZ 4. Command Palette:
     This is a section in visual studio code where you can type, search and execute commands. The command palette can be accessed by: Ctrl+Shift+P (or F1).
     Common task that can be perfomed- Opening files: Type Open File.
 # Image of command palette.
-![command pallete image](<images\palette.png>)
+![command pallete image](<images/palette.png>)
 
 
 
@@ -46,7 +46,7 @@ From here, we can install, uninstall and view avaialble extension in vs code.
     JavaScript (ES6) code snippets: Adds useful code snippets for JavaScript development.
     VS Code Icons: Adds file icons for better visual identification.
 # image on extension:
-![extension page](<images\extensions.png>)
+![extension page](<images/extensions.png>)
 
 
 
@@ -57,7 +57,7 @@ After starting it, you can then type the commands you wish to run.
 As it is intergrated within vs code, it helps to remain on vs without switching to an external command line.
 You can configure shell terminal theme and prefeences.
 # terminal image example:
-![terminal](<images\terminal.png>)
+![terminal](<images/terminal.png>)
 
 
 
